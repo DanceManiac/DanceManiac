@@ -74,7 +74,6 @@
     <a href="https://discord.gg/qEAftByndK"><img src="mediaFiles/ns_ogsr_logo.png" alt="NS OGSR" width="150" height="150" /></a>
     <a href="https://discord.gg/Q6QDxbNcfR"><img src="mediaFiles/ogsr_logo.png" alt="OGSR" width="150" height="150" /></a>
     <a href="https://vk.com/ap_stalkers"><img src="mediaFiles/artifact_logo.png" alt="Artifact" width="150" height="150" /></a>
-    <a href="https://vk.com/isotericstudio"><img src="mediaFiles/isoteric_logo.png" alt="Isoteric Studio" width="150" height="150" /></a>
 	<a href="https://ap-pro.ru/forums/topic/4859-tayna-kordona/"><img src="mediaFiles/tk_logo.png" alt="Тайна Кордона" width="150" height="150" /></a>
 	<a href="https://ap-pro.ru/forums/topic/6215-x-7-epicentr/"><img src="mediaFiles/x7_logo.png" alt="X-7: Эпицентр" width="150" height="150" /></a>
     <a href="https://vk.com/honor_union_official_group"><img src="mediaFiles/another_reality_logo.png" alt="Another Reality" width="150" height="150" /></a>
