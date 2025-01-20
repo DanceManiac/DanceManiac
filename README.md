@@ -75,7 +75,6 @@
     <a href="https://discord.gg/Q6QDxbNcfR"><img src="mediaFiles/ogsr_logo.png" alt="OGSR" width="150" height="150" /></a>
     <a href="https://vk.com/ap_stalkers"><img src="mediaFiles/artifact_logo.png" alt="Artifact" width="150" height="150" /></a>
 	<a href="https://ap-pro.ru/forums/topic/4859-tayna-kordona/"><img src="mediaFiles/tk_logo.png" alt="Тайна Кордона" width="150" height="150" /></a>
-	<a href="https://ap-pro.ru/forums/topic/6215-x-7-epicentr/"><img src="mediaFiles/x7_logo.png" alt="X-7: Эпицентр" width="150" height="150" /></a>
     <a href="https://vk.com/honor_union_official_group"><img src="mediaFiles/another_reality_logo.png" alt="Another Reality" width="150" height="150" /></a>
 	<a href="https://www.youtube.com/@DanceManiacMusic"><img src="mediaFiles/dm_music_logo.png" alt="Dance Maniac Music" width="150" height="150" /></a>
 	<a href="https://vk.com/another.team_mods"><img src="mediaFiles/another_team_logo.png" alt="Another Team" width="150" height="150" /></a>
